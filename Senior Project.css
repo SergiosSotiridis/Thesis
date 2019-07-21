@@ -1,0 +1,41 @@
+.text1 {
+	font-family: 'Heebo', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	font: bold;
+	width: 200px;
+	height: 20px;
+}
+
+.table1{
+	border: 2px solid black;
+	background-color: white;
+}
+
+.table2{
+	border: solid;
+    border-width: 1px 5px 10px 15px;
+}
+
+.text2 {
+	font-family: 'Heebo', sans-serif;
+	font-size: 16px;
+	text-align: center;
+	font: bold;
+	width: 200px;
+	height: 20px;
+}
+
+.tooltips1 {
+	font-family: 'Heebo', sans-serif;
+	font-size: 8px;
+	text-align: center;
+	font: bold;
+	width: 200px;
+	height: 20px;
+}
+.table3{
+	border: 2px solid black;
+	background-color: white;
+}
+
